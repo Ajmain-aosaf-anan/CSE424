@@ -1,4 +1,0 @@
-Here is the Datasets of our project
-
-Dataset Before Processing: https://drive.google.com/file/d/1561IlX3Lp07QKEIAfUb2niD1uCy7ZQjA/view?usp=sharing
-Dataset After Processing: https://drive.google.com/file/d/1--5bIGOngwv_sc2Fxpff-NKUMX23kbkJ/view?usp=sharing
